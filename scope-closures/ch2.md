@@ -3,7 +3,7 @@
 
 In Chapter 1, we explored how scope is determined at code compilation, a model called "lexical scope".
 
-Before we get to the nuts and bolts of how using lexical scope in our programs, we should make sure we have a good conceptual foundation for how scope works. This chapter will illustrate *scope* with several metaphors. The goal here is to *think* about how your program is handled by the JS engine in ways that more closely match how the JS engine actually works.
+Before we get to the nuts and bolts of using lexical scope in our programs, we should make sure we have a good conceptual foundation for how scope works. This chapter will illustrate *scope* with several metaphors. The goal here is to *think* about how your program is handled by the JS engine in ways that more closely match how the JS engine actually works.
 
 ## Buckets, and Bubbles, and Marbles... Oh My!
 
